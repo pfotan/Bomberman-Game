@@ -1,5 +1,6 @@
 # Bomberman-Game
 Bomberman using Raylib.
+The game is written in C++ using OOP design.
 
 The game is standard Bomberman game for Windows 
 using Raylib library.
